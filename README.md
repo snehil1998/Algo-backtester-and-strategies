@@ -1,2 +1,2 @@
-# trading-strategies
-Implementing trading strategies in python
+# Algo-backtester-and-strategies
+ Algo backtester for strategies implemented in Jupyter notebooks
